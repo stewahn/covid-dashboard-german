@@ -1,4 +1,5 @@
 # covid-dashboard-german
+Responsive Covid-19 Dashboard in German
 
 https://stewahn.github.io/covid-dashboard-german/
 
